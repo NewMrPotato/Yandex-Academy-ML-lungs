@@ -1,9 +1,9 @@
 # The project stage of ML intensive Yandex Academy spring 2024
 
-![GitHub top language](https://img.shields.io/github/languages/top/NewMrPotato/Creature_Mart)
-![GitHub](https://img.shields.io/github/license/NewMrPotato/Creature_Mart)
-![GitHub Repo stars](https://img.shields.io/github/stars/NewMrPotato/Creature_Mart)
-![GitHub issues](https://img.shields.io/github/issues/NewMrPotato/Creature_Mart)
+![GitHub top language](https://img.shields.io/github/languages/top/NewMrPotato/Yandex-Academy-ML-lungs)
+![GitHub](https://img.shields.io/github/license/NewMrPotato/Yandex-Academy-ML-lungs)
+![GitHub Repo stars](https://img.shields.io/github/stars/NewMrPotato/Yandex-Academy-ML-lungs)
+![GitHub issues](https://img.shields.io/github/issues/NewMrPotato/Yandex-Academy-ML-lungs)
 
 ## About
 
